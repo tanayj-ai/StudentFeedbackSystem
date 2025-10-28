@@ -55,11 +55,13 @@ This section highlights the key interfaces accessible to different user roles, d
     git clone [https://github.com/tanayj-ai/StudentFeedbackSystem.git](https://github.com/tanayj-ai/StudentFeedbackSystem.git)
     cd StudentFeedbackSystem
     ```
+    
 2.  **Compile the Code:**
     ```bash
     # Run this from the project root directory
     javac -cp "lib/*" -d bin src/com/example/*.java
     ```
+    
 3.  **Run the Application:** Execution begins with the `LoginGUI` class.
     ```bash
     java -cp "bin/*;lib/*" com.example.LoginGUI
