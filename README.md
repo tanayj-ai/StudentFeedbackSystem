@@ -5,8 +5,8 @@ This project is a secure, **role-based desktop application** developed for the O
 
 | Authors | Roll Numbers |
 | :--- | :--- |
-| Uday Farhad | [cite_start]16015024080 [cite: 131] |
-| Tanay Jobanputra | [cite_start]16015024032 [cite: 132] |
+| Uday Farhad | 16015024080 |
+| Tanay Jobanputra | 16015024032 |
 
 ## Technologies Used
 * **Core Language:** Java
